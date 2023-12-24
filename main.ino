@@ -1,5 +1,5 @@
 const int MAX_VALVE_CNT = 8;
-const int MAX_RECEIVED_LEN = 14;
+const int MAX_RECEIVED_LEN = 20;
 const char START_COMMAND = "s";
 const char END_COMMAND = "e";
 unsigned char VALVES[MAX_VALVE_CNT] = {1, 2, 3, 4, 5, 6, 7, 8};
